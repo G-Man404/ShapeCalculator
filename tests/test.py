@@ -1,6 +1,6 @@
 import math
 import unittest
-from area import ShapeCalculator
+from shape_calculator import ShapeCalculator
 
 
 class TestGeometry(unittest.TestCase):
